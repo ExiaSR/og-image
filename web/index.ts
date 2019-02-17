@@ -145,13 +145,14 @@ const imageLightOptions: DropdownOption[] = [
     { text: 'ZEIT', value: 'https://assets.zeit.co/image/upload/front/assets/design/zeit-black-triangle.svg' },
     { text: 'Next.js', value: 'https://assets.zeit.co/image/upload/front/assets/design/nextjs-black-logo.svg' },
     { text: 'Hyper', value: 'https://assets.zeit.co/image/upload/front/assets/design/hyper-color-logo.svg' },
+    { text: 'Michael', value: 'https://assets.michaellin.me/logo-light.svg' }
 ];
 
 const imageDarkOptions: DropdownOption[] = [
-
     { text: 'ZEIT', value: 'https://assets.zeit.co/image/upload/front/assets/design/zeit-white-triangle.svg' },
     { text: 'Next.js', value: 'https://assets.zeit.co/image/upload/front/assets/design/nextjs-white-logo.svg' },
     { text: 'Hyper', value: 'https://assets.zeit.co/image/upload/front/assets/design/hyper-bw-logo.svg' },
+    { text: 'Michael', value: 'https://assets.michaellin.me/logo-dark.svg' }
 ];
 
 const widthOptions = [
